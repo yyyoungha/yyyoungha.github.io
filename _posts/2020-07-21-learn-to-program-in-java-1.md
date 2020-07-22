@@ -51,7 +51,7 @@ Java의 가장 강력한 장점 중 하나는 플랫폼 독립적으로 설계�
 
 ## 중간 코스 평가
 
-전체 과정은 코스 설명을 제외하고 4개의 모듈으로 나뉘어져 있고, 3개 모듈은 끝날 때 마다 하나의 프로그래밍 과제가 있고 마지막 모듈은 최종 프로젝트로 진행됩니다. 오늘은 Module 0 About this course와 Module 1 Java Basics를 끝마치고 과제를 제출해 보았습니다.
+전체 과정은 코스 설명을 제외하고 4개의 모듈으로 나뉘어져 있고, 3개 모듈은 끝날 때 마다 하나의 프로그래밍 과제가 있고 마지막 모듈은 최종 프로젝트로 진행됩니다. 오늘은 Module 0 About this course와 Module 1 Java Basics를 끝마치고 과제를 [제출][project-1]해 보았습니다.
 
 개념을 설명하는 각 영상의 길이가 5분 정도로 길지 않아 빨리 듣기에는 부담이 없지만 자세한 설명을 원하시는 분들께는 다소 짧게 느껴질 수 있을 것 같습니다. 프로그래밍을 처음 접하신다면 이 강의는 권하기 어렵겠지만, 저처럼 빠른 복습을 목적으로 하는 분들에게는 괜찮은 선택이라 생각합니다.
 
@@ -60,3 +60,4 @@ Java의 가장 강력한 장점 중 하나는 플랫폼 독립적으로 설계�
 [wiki-oop]: https://en.wikipedia.org/wiki/Object-oriented_programming
 [java-exec]: http://tcpschool.com/java/java_intro_programming
 [gfg-camel-case]: https://www.geeksforgeeks.org/java-naming-conventions/
+[project-1]: https://courses.edx.org/courses/course-v1:Microsoft+DEV276x+1T2020a/discussion/forum/86f1065faa437137cff851dc3eb9d82903112cf9/threads/5f16e44ceac4b4084da1afb1
