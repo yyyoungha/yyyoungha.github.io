@@ -3,6 +3,7 @@ title: "Ceil of a/b without ceil() function"
 last_modified_at: 2020-08-24T20:40:00-09:00
 categories:
   - algorithm
+tags:
   - C++
 toc: true
 toc_label: "Ceil of a/b without ceil() function"
